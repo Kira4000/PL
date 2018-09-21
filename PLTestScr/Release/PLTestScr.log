@@ -1,0 +1,56 @@
+﻿  stdafx.cpp
+  MTRand.cpp
+  PLBase_do.cpp
+..\PLBase\PLBase_do.cpp(198): warning C4018: “>=”: 有符号/无符号不匹配
+  DrawLine.cpp
+DrawLine.cpp(31): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+DrawLine.cpp(32): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+DrawLine.cpp(37): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+DrawLine.cpp(38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(51): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+DrawLine.cpp(52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(58): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(60): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(64): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(65): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(66): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(70): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(72): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(76): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(78): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(79): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(81): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(82): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(83): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(84): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(87): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(88): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(89): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(90): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(93): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(94): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(95): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(96): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(99): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(100): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(101): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+DrawLine.cpp(102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DrawLine.cpp(112): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+DrawLine.cpp(113): warning C4244: “=”: 从“float”转换到“long”，可能丢失数据
+  LHTest.cpp
+  PLTestScr.cpp
+  PLTestScrDlg.cpp
+  正在生成代码
+  All 804 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PLTestScr.vcxproj -> F:\newroot\PL\MYYDPL\MyydPL\Release\PLTestScr.exe
+  PLTestScr.vcxproj -> F:\newroot\PL\MYYDPL\MyydPL\Release\PLTestScr.pdb (Full PDB)
+  Microsoft (R) COFF/PE Editor Version 14.00.24210.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
