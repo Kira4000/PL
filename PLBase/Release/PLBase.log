@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  MTRand.cpp
+  PLBase_do.cpp
+PLBase_do.cpp(198): warning C4018: “>=”: 有符号/无符号不匹配
+  PLBase.vcxproj -> F:\newroot\PL\MYYDPL\MyydPL\Release\PLBase.lib

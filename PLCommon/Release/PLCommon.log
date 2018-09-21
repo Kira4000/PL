@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  PLCommon.cpp
+    正在创建库 F:\newroot\PL\MYYDPL\MyydPL\Release\PLCommon.lib 和对象 F:\newroot\PL\MYYDPL\MyydPL\Release\PLCommon.exp
+  正在生成代码
+  All 432 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PLCommon.vcxproj -> F:\newroot\PL\MYYDPL\MyydPL\Release\PLCommon.dll
+  PLCommon.vcxproj -> F:\newroot\PL\MYYDPL\MyydPL\Release\PLCommon.pdb (Full PDB)
