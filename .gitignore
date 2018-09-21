@@ -1,0 +1,7 @@
+Release/
+ipch/
+.vs/MyydPL/v14/.suo
+PLBase/x64/Debug/
+PLCommon/x64/Debug/
+MyydPL.sdf
+MyydPL.opensdf
